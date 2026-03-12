@@ -14,7 +14,16 @@ Features
 - Pandas (Data Processing)
 - Matplotlib (Data Visualization)
 
- Preview
+🚀 How to Use
+Load Data: Click the Browse button to select your file, then click Read.
+Configure Report:
+Select a Text column for grouping.
+Choose an Aggregation method (e.g., Sum).
+Select a Numeric column for the calculation.
+Preview: Click Preview Report to see the table and Preview Chart to generate the visual.
+Save Results: Use the Export buttons to save your report or chart to your local folder.
+ 
+ Preview :
 ![App Screenshot](app_preview.png)
 Corporate-Data-Analyzer
 A Python-based GUI tool for CSV/Excel data analysis and visualization using Tkinter and Matplotlib.
