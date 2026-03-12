@@ -15,8 +15,9 @@ Features
 - Matplotlib (Data Visualization)
 
 🚀 How to Use
-Load Data: Click the Browse button to select your file, then click Read.
-Configure Report:
+
+Load Data : Click the Browse button to select your file, then click Read.
+Configure Report :
 Select a Text column for grouping.
 Choose an Aggregation method (e.g., Sum).
 Select a Numeric column for the calculation.
